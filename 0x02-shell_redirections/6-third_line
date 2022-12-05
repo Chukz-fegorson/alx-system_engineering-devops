@@ -1,2 +1,2 @@
 #!/bin/bash
-ls >> iacta.txt
+head -n 3 iacta | tail -n 1
